@@ -1,5 +1,6 @@
 # DT-Screening---Todo-List
 To-Do List Challenge
+
 At first, I didn’t fully understand how this worked. I read the instructions multiple times and watched YouTube tutorials, following along step by step. Of course, I didn’t grasp everything immediately, but I tried to understand it in my own way to build my knowledge.
 
 One of the biggest challenges I faced was adding the delete (×) button. In the tutorials I followed, they used images or icons, but I wanted to achieve it purely through code. So, I researched how to do it myself instead of just copying every step blindly.
